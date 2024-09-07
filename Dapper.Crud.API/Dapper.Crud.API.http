@@ -1,0 +1,6 @@
+@Dapper.Crud.API_HostAddress = http://localhost:5148
+
+GET {{Dapper.Crud.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
